@@ -1,1 +1,1 @@
-# STOCK-PRICE-PREDICTION
+# Stock-MArket-Forecasting
